@@ -14,4 +14,5 @@ public class MainActivity extends AppCompatActivity {
 
     //a comment
     //b comment
+    // a comment tiếp
 }
