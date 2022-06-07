@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     //a comment
     //b comment
+    // a comment tiếp
+    // a commen 222
+    //a commen nào
 }
